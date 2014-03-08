@@ -1,17 +1,17 @@
 title:            Airmee
-tagline:          A short tagline
-description:      Describe your website.
+tagline:          Airmee, Chanita Anuwong
+description:      A Softwarista
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://airmee.me
 
 # Owner/author information
 owner:
-  name:           Chanita Anuwong "Air"
+  name:           Chanita Anuwong --Airmee
   avatar:         photo.jpg
-  bio:            "Describe your self."
-  email:          air@airmee.me
+  bio:            "Creative Softwarista"
+  email:          aireanalistic@gmail.com 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter: chanita       
   facebook: chanita.py      
   github:   chanita
   linkedin: chanita      
@@ -19,7 +19,7 @@ owner:
   lastfm:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus: aireanalistic@gmail.com   
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
