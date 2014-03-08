@@ -15,7 +15,7 @@ image:
 แหมก็โลกนี้มันซับซ้อนนี่นา     
   
   
-[**Airmee.me**](http://airemee.me)[^1] , use [Minimal Mistake](http://mademistakes.com/articles/minimal-mistakes-jekyll-theme/)[^2] --a responsive Jekyll theme. ต้องขอบพระคุณอย่างสูงสำหรับ contribution ฮะ!!
+[**Airmee.me**](http://airemee.me) , use [Minimal Mistake](http://mademistakes.com/articles/minimal-mistakes-jekyll-theme/) --a responsive Jekyll theme. ต้องขอบพระคุณอย่างสูงสำหรับ contribution ฮะ!!
 
 ## Minimal Mistakes is all about:
 
