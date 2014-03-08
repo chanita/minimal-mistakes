@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About Air
+title: About the Theme
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Chanita, Anuwong, Air, Airmee, แมวใบไม้ครองโลก]
 modified: 9-9-2013
@@ -11,11 +11,7 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-แมวใบไม้ ครองโลก เป็นนามแฝงในโลก Facebook ของ Airmee  จริงๆ แล้ว Airmee ก็เป็นนามแฝงมาจากชื่อ Air อีกที
-แหมก็โลกนี้มันซับซ้อนนี่นา     
-  
-  
-[**Airmee.me**](http://airemee.me)[^1] , use [Minimal Mistake](http://mademistakes.com/articles/minimal-mistakes-jekyll-theme/)[^2] --a responsive Jekyll theme. ต้องขอบพระคุณอย่างสูงสำหรับ contribution ฮะ!!
+Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
 
 ## Minimal Mistakes is all about:
 
