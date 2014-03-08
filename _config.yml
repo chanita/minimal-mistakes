@@ -7,14 +7,14 @@ url:              http://localhost:4000
 # Owner/author information
 owner:
   name:           Chanita Anuwong "Air"
-  avatar:         bio-photo.jpg
+  avatar:         photo.jpg
   bio:            "Describe your self."
   email:          air@airmee.me
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook: chanita.py      
   github:   chanita
-  linkedin:       
+  linkedin: chanita      
   instagram:      
   lastfm:         
   tumblr:         
