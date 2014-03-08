@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site/</loc>
+        <loc>http://airmee.me</loc>
     </url>
     
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//404.html</loc>
+        <loc>http://airmee.me/404.html</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//about/</loc>
+        <loc>http://airmee.me/about/</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//drafts/about/</loc>
+        <loc>http://airmee.me/drafts/about/</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//feed.xml</loc>
+        <loc>http://airmee.me/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//index.html</loc>
+        <loc>http://airmee.me/index.html</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//posts/</loc>
+        <loc>http://airmee.me/posts/</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//sitemap.xml</loc>
+        <loc>http://airmee.me/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//theme-setup/</loc>
+        <loc>http://airmee.me/theme-setup/</loc>
     </url>
     
 
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//code-highlighting-post/</loc>
+        <loc>http://airmee.me/code-highlighting-post/</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//readability-feature-post/</loc>
+        <loc>http://airmee.me/readability-feature-post/</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//sample-post-images/</loc>
+        <loc>http://airmee.me/sample-post-images/</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//readability-post/</loc>
+        <loc>http://airmee.me/readability-post/</loc>
     </url>
     
     <url>
-        <loc>http://203.151.162.43/airmee.me/_site//sample-post/</loc>
+        <loc>http://airmee.me/sample-post/</loc>
     </url>
     
 </urlset>
