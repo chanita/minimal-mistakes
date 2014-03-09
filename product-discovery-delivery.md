@@ -1,9 +1,11 @@
 ---
 layout: page
-permalink: /theme-setup/
-title: Theme Setup
-description: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
-tags: [Jekyll, theme, responsive]
+permalink: /product-discovery-delivery/
+title: Product Discovery and Delivery
+description: "Everybody Happy with Our Products"
+tags: [Product, Product discovery and delivery, impact mapping, story mapping, story journey, software, SRS, softw
+are requirement specification, software building, system analyst, system analysis]
+relative_permalinks: true
 image:
   feature: texture-feature-02.jpg
   credit: Texture Lovers

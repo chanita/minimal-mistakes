@@ -18,6 +18,10 @@
     </url>
     
     <url>
+        <loc>http://airmee.me/drafts/product-discovery-delivery/</loc>
+    </url>
+    
+    <url>
         <loc>http://airmee.me/feed.xml</loc>
     </url>
     
@@ -30,11 +34,11 @@
     </url>
     
     <url>
-        <loc>http://airmee.me/sitemap.xml</loc>
+        <loc>http://airmee.me/product-discovery-delivery/</loc>
     </url>
     
     <url>
-        <loc>http://airmee.me/theme-setup/</loc>
+        <loc>http://airmee.me/sitemap.xml</loc>
     </url>
     
 

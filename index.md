@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Airmee's personal space"
+tags: [Airmee, Chanita, Anuwong, blog, แมวใบไม้ครองโลก, แมวใบไม้]
 image:
   feature: texture-feature-01.jpg
   credit: Texture Lovers
