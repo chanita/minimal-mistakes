@@ -31,8 +31,9 @@ image:
 * Airmee เป็นสิ่งมีชีวิตที่อ่อนไหว แม้จะดูกระโชกโฮกฮากและป่าเถื่อน 
 * Airmee เป็นคนอ่อนโยน แต่อย่าทำให้แอร์หมีโมโห เพราะจะโมโห
 * Airmee ไม่ดุร้าย และปลอดโรค
+* Airmee เป็นคนพูดน้อย เงียบๆ แต่แม่บอกว่า "ไม่ใช่!!"
 
-<a markdown="0" href="http://linkedin.com/in/chanita" class="btn">Connect with Chanita on LinkedIn</a>
-<a markdown="0" href="http://www.facebook.com/chanita.py" class="btn">Connect with แมวใบไม้ ครองโลก on Facebook</a>
+<a markdown="0" href="http://linkedin.com/in/chanita" class="btn">Chanita on LinkedIn</a>
+<a markdown="0" href="http://www.facebook.com/chanita.py" class="btn">แมวใบไม้ ครองโลก <small>on Facebook</small></a>
 
 
