@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /product-discovery-delivery/
+layout: post
 title: Product Discovery and Delivery
-description: "Everybody Happy with Our Products"
+description: "Everybody Happy with Our Products, มันคือแนวคิดและเครื่องมือที่ช่วยในการตัดสินใจในการทำ Product/Project ขั้นตอนในการคิดค้น product และการปรับแผน การทำงานร่วมกันระหว่าง business team, marketing team กับ ทีมทำงาน (delivery team)"
 tags: [Product, Product discovery and delivery, impact mapping, story mapping, story journey, software, SRS, softw
 are requirement specification, software building, system analyst, system analysis]
 relative_permalinks: true
