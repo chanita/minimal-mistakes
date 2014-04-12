@@ -5,9 +5,9 @@ description: "ทำไมคนไม่ออกจากวงการซอ
 tags: ["software", "วิกฤตโปรแกรมเมอร์"]
 relative_permalinks: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: "brain-synapse-neurons-HD-Wallpapers1.jpg"
+  credit: Biological Science Picture Library
+  creditlink: http://pulpbits.com
 ---
 
 เห็นเค้าว่ากันว่า
