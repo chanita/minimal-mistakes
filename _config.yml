@@ -34,10 +34,8 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Product Discovery & Delivery
-    url: /product-discovery-delivery/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Odd-e
+    url: http://odd-e.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
