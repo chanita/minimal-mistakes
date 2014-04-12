@@ -4,10 +4,6 @@ title: เสพติด
 description: "ทำไมคนไม่ออกจากวงการซอฟต์แวร์"
 tags: ["software", "วิกฤตโปรแกรมเมอร์"]
 relative_permalinks: true
-image:
-  feature: "brain-synapse-neurons-HD-Wallpapers1.jpg"
-  credit: Biological Science Picture Library
-  creditlink: http://pulpbits.com
 ---
 
 เห็นเค้าว่ากันว่า
