@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product Backlog
-description: "เก็บspec ของชิ้นงานก่อนจะลงมือสร้างซอฟต์แวร์"
+description: "เก็บspec ของชิ้นงานก่อนจะลงมือสร้างซอฟต์แวร์  requirement อยู่ไหน"
 tags: ["software", "<nobr>Product Backlog</nobr>", "specification", "requirement", 
 "requirement confirmation", "<nobr>Product Backlog</nobr> item", "PBI", "PB", "Agile Requirement"]
 relative_permalinks: true
