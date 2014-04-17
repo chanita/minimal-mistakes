@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <nobr>Product Backlog</nobr> 
+title: Product Backlog
 description: "เก็บspec ของชิ้นงานก่อนจะลงมือสร้างซอฟต์แวร์"
 tags: ["software", "<nobr>Product Backlog</nobr>", "specification", "requirement", 
 "requirement confirmation", "<nobr>Product Backlog</nobr> item", "PBI", "PB", "Agile Requirement"]
