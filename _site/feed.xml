@@ -5,13 +5,77 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://airmee.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://airmee.me" />
-<updated>2014-04-19T00:33:11+07:00</updated>
+<updated>2014-04-23T22:53:54+07:00</updated>
 <id>http://airmee.me/</id>
 <author>
   <name>Chanita Anuwong</name>
   <uri>http://airmee.me/</uri>
   <email>aireanalistic@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[เกริ่นเรื่อง CMS สำหรับ ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS)]]></title>
+  <link rel="alternate" type="text/html" href="http://airmee.me/cms-1/" />
+  <id>http://airmee.me/cms-1</id>
+  <published>2014-04-21T00:00:00+07:00</published>
+  <updated>2014-04-21T00:00:00+07:00</updated>
+  <author>
+    <name>Chanita Anuwong</name>
+    <uri>http://airmee.me</uri>
+    <email>aireanalistic@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;เห็นเพื่อนๆ หลายคนคมความคิด แต่ปล่อยมันหายไป ก็เลยอยากชวนให้เขียน Blog กันค่ะ&lt;/p&gt;
+
+&lt;p&gt;เนื่องจากใครๆ ก็มี Blog เป็นของตัวเอง แต่รู้ไหมว่า พอตัดสินใจจะมี Blog แล้วเราต้องเลี้ยงดูมันอย่างไรบ้าง …&lt;/p&gt;
+
+&lt;p&gt;พอพูดถึง Blog ท่านคงจะนึกถึงBlog แบบเก่าแก่แต่เก๋า อย่าง Wordpress ที่ครองใจมนุษยชาติด้วย
+flexibility สูง
+plugins มากมาย
+และ template กับ theme กองเท่าภูเขาเลากา
+Hosting ก็เยอะแยะ (อยากโฆษณาแฝงจังเลย อิอิ)&lt;/p&gt;
+
+&lt;p&gt;ค่ายอื่นอย่าง Drupal หรือ Blogger ก็มีมุนษย์ไทยใช้เยอะเหมือนกันนะ&lt;/p&gt;
+
+&lt;p&gt;พวกนี้แหละคือ CMS ( Content Management System ) แปลเป้นภาษามารดาตามพจนานุกรมแมวใบไม้ ครองโลกว่า ระบบช่วยจัดการเนื้อหา บทความและสัพเพเหระที่เกี่ยวข้อง&lt;/p&gt;
+
+&lt;p&gt;ขอนำ Wordpress มาเป็นกรณีตัวอย่างเพราะมันเป็นยี่ห้อนึงที่บันทึกข้อมูลเหล่านี้ลงบน Database&lt;br /&gt;
+และมีโค้ดที่สร้างมารองรับให้ต่อยอดได้&lt;br /&gt;
+สามารถลง Pluginได้&lt;br /&gt;
+ลง theme ได้&lt;br /&gt;
+ลง widget ได้&lt;br /&gt;
+บลา บลา บลา&lt;br /&gt;
+และถ้าไม่ชอบใจของที่มีอยู่แล้วก็สามารถสร้างของเหล่านี้ขึ้นมาตามใจชอบ&lt;/p&gt;
+
+&lt;p&gt;คนไทยเราก็สามารถทำเงินค่าขนมจาก Wordpress theme ไปหลายล้านนะ (“ห๊ะ ค่าขนมกี่บาทนะ?”)&lt;/p&gt;
+
+&lt;p&gt;ถ้าอย่างนั้นแล้ว ทำไมเราต้องหันมาสนใจ Static CMS ด้วยง่ะ!&lt;/p&gt;
+
+&lt;p&gt;CMS แบบเดิมนั้นมีข้อเสียที่น่ารบกวนจิตใจอยู่น๊าา&lt;/p&gt;
+
+&lt;p&gt;อย่างแรกคือ มันช้าอ่ะ ฟีเจอร์มันเยอะแยะ กว่าจะโหลดได้แต่ละหน้าแทบขาดใจ &lt;br /&gt;
+แม้กระทั่งเวบที่โฮสต์ในประเทศไทย และคนเข้าเวบก็อยู่ในประเทศไทยนะ!!!&lt;br /&gt;
+(ประสิทธิภาพของเซิร์ฟเวอร์ก็เป็นปัจจัยนึงนะ แต่กับบล็อกเนี่ย จะต้องใช้เครื่องแรงแค่ไหนเชียว)&lt;/p&gt;
+
+&lt;p&gt;เวลาที่หล่อน configureมันผิดนิดนึง ก็น่าปวดใจนะ บทมันจะพัง มันก็พังยาวไป….&lt;/p&gt;
+
+&lt;p&gt;กรณีที่เราใช้ theme ที่คนอื่นทำมาใช้งาน บางทีมันมีข้อจำกัด เปลี่ยนโน่นนี่ไม่ได้&lt;/p&gt;
+
+&lt;p&gt;ในรายละเอียดลึกๆ แล้วยังมีความเสี่ยงเรื่องโดนแฮ็กเกอร์โจมตีด้วย ซึงเราจะยังไม่พูดถึง เพราะว่ามันเป็นส่วนน้อยมาคร่ะช์&lt;/p&gt;
+
+&lt;p&gt;(ถ้าบล็อกเราดังถึงขั้นมีแฮ็กเกอร์จะมาโจมตีค่อยว่ากันโนะ…)&lt;/p&gt;
+
+&lt;p&gt;และแล้ว…..&lt;/p&gt;
+
+&lt;p&gt;มนุษยชาติ ก็ขอเปลี่ยนวิถี จากสูงสุด คืนสู่สามัญ….&lt;/p&gt;
+
+&lt;p&gt;เบื้องบนก็เลยประทาน Static CMS ลงมาเป็นพระเอกของเราส์&lt;/p&gt;
+
+&lt;p&gt;ตัดจบตรงนี้เลย รออ่านภาคสองนะครัช&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://airmee.me/cms-1/&quot;&gt;เกริ่นเรื่อง CMS สำหรับ ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS)&lt;/a&gt; was originally published by Chanita Anuwong at &lt;a href=&quot;http://airmee.me&quot;&gt;Airmee.Me&lt;/a&gt; on April 21, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

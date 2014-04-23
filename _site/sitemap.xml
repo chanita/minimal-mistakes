@@ -14,14 +14,6 @@
     </url>
     
     <url>
-        <loc>http://airmee.me/drafts/about/</loc>
-    </url>
-    
-    <url>
-        <loc>http://airmee.me/drafts/product-discovery-delivery/</loc>
-    </url>
-    
-    <url>
         <loc>http://airmee.me/feed.xml</loc>
     </url>
     
@@ -38,6 +30,10 @@
     </url>
     
 
+    
+    <url>
+        <loc>http://airmee.me/cms-1/</loc>
+    </url>
     
     <url>
         <loc>http://airmee.me/product-backlog/</loc>
