@@ -5,13 +5,52 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://airmee.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://airmee.me" />
-<updated>2014-04-23T23:10:20+07:00</updated>
+<updated>2014-04-24T00:31:07+07:00</updated>
 <id>http://airmee.me/</id>
 <author>
   <name>Chanita Anuwong</name>
   <uri>http://airmee.me/</uri>
   <email>aireanalistic@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS) ตอนที่ 1]]></title>
+  <link rel="alternate" type="text/html" href="http://airmee.me/cms-2-static-cms/" />
+  <id>http://airmee.me/cms-2-static-cms</id>
+  <published>2014-04-21T00:00:00+07:00</published>
+  <updated>2014-04-21T00:00:00+07:00</updated>
+  <author>
+    <name>Chanita Anuwong</name>
+    <uri>http://airmee.me</uri>
+    <email>aireanalistic@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;ในเนื้อหา ตอนที่ 1 ขอเตือนก่อนว่า&lt;/p&gt;
+
+&lt;p&gt;ถ้าหล่อนเป็นมนุษย์ ลาก…วาง&lt;br /&gt;
+อ๊ะ จิ้มสี&lt;br /&gt;
+อ๊ะ Browse รูป&lt;br /&gt;
+อ๊ะ Drop your file เฮีย..&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Static CMS แบบบ้านๆ อาจไม่ตอบโจทย์&lt;/p&gt;
+
+&lt;p&gt;เพราะงั้นขอให้ แบ่ง Static CMS เป็นพุงสามชั้น&lt;/p&gt;
+
+&lt;p&gt;ชั้นแรก รองรับแค่การเขียนบล็อก ใส่เนื้อหาสัพเพเหระที่เกี่ยวข้องได้ แต่หน้าตา ตามอัถภาพ&lt;/p&gt;
+
+&lt;p&gt;ชั้นที่สอง รองรับหน้าตางามงด เพราะถ้าบล็อกเราเนื้อหาไม่ดีจริง เราต้องไปพึ่งการศัลยกรรมแบบสวยตั้งแต่หัว (ที่)ยันฮี …​(ขอบคุณชาว OlX สำหรับมุกนี้… อิอิ เดี๋ยวไปขออนุญาติแท็กก่อน (เค้าจะอยากให้แท็กป่าววะ?)) เพื่อที่จะไม่อายใคร เดี๋ยวเค้าจะว่า เนื้อหาไร้ซึ่งแล้วยังไม่น่าเยี่ยมชม อาจต้องจ้างเพื่อนห้าบาทให้เข้ามากระตุ้นทราฟฟิก&lt;/p&gt;
+
+&lt;p&gt;ชั้นที่สาม Static CMS อันลงปลั๊กอินสุดเริ่ดส์ ช่วยให้คนเขียนบล็อกสะดวกสบาย มีอารยะ&lt;br /&gt;
+ณ จุดนี้ มนุษย์ลาก…วาง หรือ มนุษย์ Drop your file เฮีย อาจจะ พึงพอใจขึ้นมานิดส์นุง&lt;/p&gt;
+
+&lt;p&gt;มีชั้นที่สี่ด้วย เพราะที่เราสร้างตึกแถวบ้านอาม่าเราเหลือโครงเหล็กเอาไว้.. ก็เลยต่อชั้นเพิ่มได้….&lt;/p&gt;
+
+&lt;p&gt;ชั้นที่สี่ คือ ลง widget ต่างๆ ไม่ให้น้อยหน้า Blog รุ่นพี่เก๋าๆ&lt;/p&gt;
+
+&lt;p&gt;ตอนที่ 1 ขอจบแค่นี้ได้ไหม …. คือ…เขียนมันเพื่อเจ้…… เจ้เค้าสั่งมา….&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://airmee.me/cms-2-static-cms/&quot;&gt;ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS) ตอนที่ 1&lt;/a&gt; was originally published by Chanita Anuwong at &lt;a href=&quot;http://airmee.me&quot;&gt;Airmee.Me&lt;/a&gt; on April 21, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

@@ -1,0 +1,213 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS) ตอนที่ 1 &#8211; Airmee.Me</title>
+<meta name="description" content="CMS คืออะไรเหรอ แล้ว Static CMS คืออะไรอ้ะ">
+<meta name="keywords" content="file-based blog, fast CMS, static CMS ruby, jekyll, static CMS, file-based CMS, CMS">
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://airmee.me/images/texture-feature-01-300.jpg">
+
+<meta name="twitter:title" content="ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS) ตอนที่ 1">
+<meta name="twitter:description" content="CMS คืออะไรเหรอ แล้ว Static CMS คืออะไรอ้ะ">
+<meta name="twitter:creator" content="@chanita">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS) ตอนที่ 1">
+<meta property="og:description" content="CMS คืออะไรเหรอ แล้ว Static CMS คืออะไรอ้ะ">
+<meta property="og:url" content="http://airmee.me/cms-2-static-cms/">
+<meta property="og:site_name" content="Airmee.Me">
+
+
+
+
+
+<link rel="canonical" href="http://airmee.me/cms-2-static-cms/">
+<link href="http://airmee.me/feed.xml" type="application/atom+xml" rel="alternate" title="Airmee.Me Feed">
+<link rel="author" href="https://plus.google.com/+ChanitaAnuwong/?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google Webfonts -->
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://airmee.me/assets/css/main.min.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://airmee.me/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://airmee.me/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://airmee.me/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://airmee.me/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://airmee.me/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://airmee.me/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://airmee.me/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://airmee.me/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://airmee.me/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://airmee.me">Airmee.Me</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				<li><a href="http://airmee.me/about/" >About</a></li>
+		        
+				<li><a href="http://airmee.me/posts/" >Posts</a></li>
+		        
+				<li><a href="http://odd-e.com" target="_blank">Odd-e</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+<div class="image-wrap">
+  <img src="http://airmee.me/images/texture-feature-01-300.jpg" alt="ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS) ตอนที่ 1 feature image">
+  <span class="image-credit">Photo Credit: <a href="http://texturelovers.com">Texture Lovers</a></span>
+</div><!-- /.image-wrap -->
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    <img src="http://airmee.me/images/photo.jpg" class="bio-photo" alt="Chanita Anuwong bio photo"></a>
+<h4>Chanita Anuwong</h4>
+<p>Creative Softwarista</p>
+<a href="http://twitter.com/chanita" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
+<a href="http://facebook.com/chanita.py" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
+<a href="https://plus.google.com/+ChanitaAnuwong/" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
+<a href="http://linkedin.com/in/chanita" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
+
+<a href="http://github.com/chanita" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
+
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      <h1>ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS) ตอนที่ 1</h1>
+      <h2></h2>
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p>ในเนื้อหา ตอนที่ 1 ขอเตือนก่อนว่า</p>
+
+<p>ถ้าหล่อนเป็นมนุษย์ ลาก…วาง<br />
+อ๊ะ จิ้มสี<br />
+อ๊ะ Browse รูป<br />
+อ๊ะ Drop your file เฮีย..<br /></p>
+
+<p>Static CMS แบบบ้านๆ อาจไม่ตอบโจทย์</p>
+
+<p>เพราะงั้นขอให้ แบ่ง Static CMS เป็นพุงสามชั้น</p>
+
+<p>ชั้นแรก รองรับแค่การเขียนบล็อก ใส่เนื้อหาสัพเพเหระที่เกี่ยวข้องได้ แต่หน้าตา ตามอัถภาพ</p>
+
+<p>ชั้นที่สอง รองรับหน้าตางามงด เพราะถ้าบล็อกเราเนื้อหาไม่ดีจริง เราต้องไปพึ่งการศัลยกรรมแบบสวยตั้งแต่หัว (ที่)ยันฮี …​(ขอบคุณชาว OlX สำหรับมุกนี้… อิอิ เดี๋ยวไปขออนุญาติแท็กก่อน (เค้าจะอยากให้แท็กป่าววะ?)) เพื่อที่จะไม่อายใคร เดี๋ยวเค้าจะว่า เนื้อหาไร้ซึ่งแล้วยังไม่น่าเยี่ยมชม อาจต้องจ้างเพื่อนห้าบาทให้เข้ามากระตุ้นทราฟฟิก</p>
+
+<p>ชั้นที่สาม Static CMS อันลงปลั๊กอินสุดเริ่ดส์ ช่วยให้คนเขียนบล็อกสะดวกสบาย มีอารยะ<br />
+ณ จุดนี้ มนุษย์ลาก…วาง หรือ มนุษย์ Drop your file เฮีย อาจจะ พึงพอใจขึ้นมานิดส์นุง</p>
+
+<p>มีชั้นที่สี่ด้วย เพราะที่เราสร้างตึกแถวบ้านอาม่าเราเหลือโครงเหล็กเอาไว้.. ก็เลยต่อชั้นเพิ่มได้….</p>
+
+<p>ชั้นที่สี่ คือ ลง widget ต่างๆ ไม่ให้น้อยหน้า Blog รุ่นพี่เก๋าๆ</p>
+
+<p>ตอนที่ 1 ขอจบแค่นี้ได้ไหม …. คือ…เขียนมันเพื่อเจ้…… เจ้เค้าสั่งมา….</p>
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          <img src="http://airmee.me/images/photo.jpg" class="bio-photo" alt="Chanita Anuwong bio photo"></a>
+<h4>Chanita Anuwong</h4>
+<p>Creative Softwarista</p>
+<a href="http://twitter.com/chanita" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
+<a href="http://facebook.com/chanita.py" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
+<a href="https://plus.google.com/+ChanitaAnuwong/" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
+<a href="http://linkedin.com/in/chanita" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
+
+<a href="http://github.com/chanita" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
+
+
+        </div>
+        <p class="byline"><strong>ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS) ตอนที่ 1</strong> was published on <time datetime="2014-04-21T00:00:00+07:00">April 21, 2014</time> by <a href="http://airmee.me/about" title="About Chanita Anuwong">Chanita Anuwong</a>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://airmee.me/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  <footer>
+    <span>&copy; 2014 Chanita Anuwong. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="https://github.com/mmistakes/minimal-mistakes">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://airmee.me/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://airmee.me/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-48812114-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+	        
+
+</body>
+</html>
