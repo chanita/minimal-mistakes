@@ -11,6 +11,8 @@ image:
   creditlink: http://texturelovers.com
 ---
 
+นี่เป็นภาคต่อจาก *[เกริ่นเรื่อง CMS สำหรับ ซีรีส์ ทำBlog ยุคใหม่ ใช้ Static Blog (Static CMS)](http://airmee.me/cms-1/)*
+
 ในเนื้อหา ตอนที่ 1 ขอเตือนก่อนว่า
 
 ถ้าหล่อนเป็นมนุษย์ ลาก...วาง<br/>
